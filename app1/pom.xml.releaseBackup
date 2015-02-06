@@ -3,11 +3,11 @@
     <parent>
         <artifactId>parent</artifactId>
         <groupId>de.friedenhagen.multimodule</groupId>
-        <version>3.1</version>
+        <version>3.1-SNAPSHOT</version>
     </parent>
     <artifactId>app1</artifactId>
-  <version>3.1</version>
-     <scm>
+  <version>3.1-SNAPSHOT</version>
+    <scm>
         <connection>scm:git:git@github.com:amusaku/releaseexample.git</connection>
         <developerConnection>scm:git:git@github.com:amusaku/releaseexample.git</developerConnection>
       <tag>v1.1</tag>
