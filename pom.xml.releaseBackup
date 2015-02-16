@@ -13,7 +13,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <!--distributionManagement>
+    <distributionManagement>
         <snapshotRepository>
             <id>ui-snapshot</id>
             <uniqueVersion>true</uniqueVersion>
@@ -24,7 +24,7 @@
             <uniqueVersion>true</uniqueVersion>
             <url>http://nexus.tecnositaf.it/nexus/content/repositories/snapshots/</url>
         </repository>
-    </distributionManagement-->
+    </distributionManagement>
     <build>
         <pluginManagement>
             <plugins>
